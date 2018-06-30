@@ -1,0 +1,12 @@
+{
+    "name": "thesoftease/currency-exchange",
+    "description": "Crypto-currency exchange",
+    "authors": [
+        {
+            "name": "Zohaib Niaz",
+            "email": "zohaib.niaz788@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
