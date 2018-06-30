@@ -1,12 +1,12 @@
 {
     "name": "thesoftease/currency-exchange",
-    "description": "Crypto-currency exchange",
-    "authors": [
-        {
-            "name": "Zohaib Niaz",
-            "email": "zohaib.niaz788@gmail.com"
-        }
-    ],
+        "description": "A PHP helper for BTC API",
+    "keywords": ["btc", "bitcoin", "bit coin", "cryptocurrency"],
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "version": "1.0.0",
     "minimum-stability": "dev",
     "require": {}
 }
